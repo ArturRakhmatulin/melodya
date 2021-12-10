@@ -1,2 +1,2 @@
-# melodya
-Учебный проект Glo Academy
+# melodya - Учебный проект Glo Academy
+##  Проект выполнил: Артур Рахматулин
